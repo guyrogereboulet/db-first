@@ -3,8 +3,8 @@ Id - numero icrementale PRIMARY_KEY - AI - UNIQUE
 Tipologia - stringa VARCHAR(16) NOTNULL
 Marca - stringa VARCHAR(16) NOTNULL
 Modello - stringa VARCHAR(16)
-Prezzo - intero TINYINT NOTNULL
-Chilometraggio - intero TINYINT
+Prezzo - intero INT NOTNULL
+Chilometraggio - DECIMAL
 Colore - stringa VARCHAR(numero)
 Anno di immatricolazione - data NOTNULL
 Alimentazione - stringa VARCHAR(10) NOTNULL
