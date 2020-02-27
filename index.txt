@@ -1,0 +1,10 @@
+Tipologia stringa VARCHAR(numero)
+Marca stringa VARCHAR(16)
+Modello stringa VARCHAR(16)
+Prezzo intero TINYINT(7)
+Chilometraggio intero TINYINT(7)
+Colore stringa VARCHAR(numero)
+Anno data
+Alimentazione stringa VARCHAR(10)
+Targa stringa VARCHAR(7)
+
